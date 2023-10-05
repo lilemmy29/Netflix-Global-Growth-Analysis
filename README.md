@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Global Growth Analysis
 
 ## Overview
 
