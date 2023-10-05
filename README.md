@@ -10,7 +10,7 @@ The dataset used for this analysis was obtained from Kaggle's Netflix database. 
 
 ## Project Objectives and Goals:
 
-Objective 1: Analyze Netflix's Growth Over Time**
+Objective 1: Analyze Netflix's Growth Over Time
 - Goal: Understand how Netflix's subscriber base has evolved over the years.
 - Methodology: Time series analysis of subscriber data.
 - Key Findings: Netflix has experienced exponential growth since its inception, with consistent increases in subscribers each year.
