@@ -16,31 +16,47 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 
 - **Goal:** Categorize and visualize genres and types of content available on Netflix.
 - **Methodology:** Data visualization and genre classification.
-- **Key Findings:** Netflix offers a diverse range of content, with movie content leading with 69.69% and TV shows accounting for 30.31% of the library.
+- **Key Findings:** 
+  - Movie content: 69.69%
+  - TV show content: 30.31%
 
 **Objective 3: Investigate User Ratings and Reviews**
 
 - **Goal:** Understand viewer perceptions by analyzing user ratings and reviews.
 - **Methodology:** Sentiment analysis and review sentiment visualization.
-- **Key Findings:** Users generally rate Netflix content positively, with TV-MA being the most common rating.
+- **Key Findings:** 
+  - Most common rating: TV-MA
 
 **Objective 4: Identify Top Directors and Actors**
 
 - **Goal:** Identify the top directors and actors associated with Netflix productions.
 - **Methodology:** Data mining and analysis of cast and crew data.
-- **Key Findings:** Rajiv Chilaka is the top director with 22 credits, while Anupam Kher is the top actor with 39 credits.
+- **Key Findings:** 
+  - Top director: Rajiv Chilaka (22 credits)
+  - Top actor: Anupam Kher (39 credits)
 
 **Objective 5: Examine Content Distribution**
 
 - **Goal:** Understand content distribution across different countries and regions.
 - **Methodology:** Geographic analysis of content availability.
-- **Key Findings:** Netflix is most popular in the United States, with 4,035 titles available. International movies lead the content categories, followed by drama and comedies.
+- **Key Findings:** 
+  - Most popular country: United States (4,035 titles)
+  - Top content category: International movies (2,752 titles)
 
 **Objective 6: Analyze Audience Preferences**
 
 - **Goal:** Investigate audience preferences by analyzing maturity ratings and release patterns.
 - **Methodology:** Data visualization and trend analysis.
-- **Key Findings:** Content additions started increasing in 2015, peaking in 2020 with 1,400 additions. July had the highest number of content additions (819), followed by December (797) and October (765).
+- **Key Findings:** 
+  - Content additions started increasing in 2015, peaking in 2020 with 1,400 additions.
+  - Highest content additions month: July (819), followed by December (797) and October (765).
+
+**Objective 7: Distribution of Movie Length**
+
+- **Goal:** Analyze the distribution of movie length on Netflix.
+- **Methodology:** Histogram analysis of movie lengths.
+- **Key Findings:** 
+  - Movies with a length of 100 to 120 minutes had a frequency of 2,500.
 
 ## Limitations
 
@@ -79,12 +95,6 @@ Learn about Netflix's global presence by examining content distribution across c
 ### Step 8: Audience Preferences
 
 Investigate audience preferences, including the popularity of TV-MA-rated content and content addition trends over months.
-
-## How to Use This Repository
-
-- Follow the steps outlined in the README and associated Jupyter notebooks to explore each aspect of the analysis.
-- Feel free to adapt the code and insights for your research or data projects.
-- If you have questions or feedback, please don't hesitate to reach out.
 
 ## Data Source
 
