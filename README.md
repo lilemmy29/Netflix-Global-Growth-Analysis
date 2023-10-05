@@ -42,6 +42,10 @@ Welcome to the GitHub repository for my Netflix Data Analysis project. In this r
 - **Methodology:** Data visualization and trend analysis.
 - **Key Findings:** Content additions started increasing in 2015, peaking in 2020 with 1,400 additions. July had the highest number of content additions (819), followed by December (797) and October (765).
 
+## Limitations
+
+- The dataset used for this analysis was last updated in 2020. Therefore, the analysis may not reflect the most current trends or additions on Netflix.
+
 ## How to Explore the Analysis
 
 ### Step 1: Clone or Fork the Repository
