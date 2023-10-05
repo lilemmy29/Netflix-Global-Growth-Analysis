@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GitHub repository for my Netflix Data Analysis project. In this repository, you'll find a comprehensive analysis of Netflix, covering various aspects of the streaming giant's performance, content library, user preferences, and more. This analysis offers valuable insights into Netflix's growth, content strategy, and audience engagement.
+Welcome to the GitHub repository for my Netflix Global Growth Analysis project. In this repository, you'll find a comprehensive analysis of Netflix, covering various aspects of the streaming giant's performance, content library, user preferences, and more. This analysis offers valuable insights into Netflix's growth, content strategy, and audience engagement.
 
 ## Project Objectives and Goals
 
