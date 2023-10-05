@@ -10,7 +10,9 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 
 - **Goal:** Understand how Netflix's subscriber base has evolved over the years.
 - **Methodology:** Time series analysis of subscriber data.
-- **Key Findings:** Netflix has experienced exponential growth since its inception, with consistent increases in subscribers each year.
+- **Key Findings:** 
+  - Netflix has experienced exponential growth since its inception, with consistent increases in subscribers each year.
+  - Subscriber growth peaked in 2020.
 
 **Objective 2: Explore the Content Library**
 
@@ -19,6 +21,7 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 - **Key Findings:** 
   - Movie content: 69.69%
   - TV show content: 30.31%
+  - Most common genres: Drama, Comedies, International Movies
 
 **Objective 3: Investigate User Ratings and Reviews**
 
@@ -26,14 +29,15 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 - **Methodology:** Sentiment analysis and review sentiment visualization.
 - **Key Findings:** 
   - Most common rating: TV-MA
+  - Users generally rate Netflix content positively.
 
 **Objective 4: Identify Top Directors and Actors**
 
 - **Goal:** Identify the top directors and actors associated with Netflix productions.
 - **Methodology:** Data mining and analysis of cast and crew data.
 - **Key Findings:** 
-  - Top director: Rajiv Chilaka (22 credits)
-  - Top actor: Anupam Kher (39 credits)
+  - Top directors: Rajiv Chilaka (22 credits), Jan Suter (18 credits), Raul Campos (18 credits)
+  - Top actors: Anupam Kher (39 credits), Rupa Bhimani (31 credits), Takahiro Sakurai (30 credits)
 
 **Objective 5: Examine Content Distribution**
 
@@ -41,7 +45,7 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 - **Methodology:** Geographic analysis of content availability.
 - **Key Findings:** 
   - Most popular country: United States (4,035 titles)
-  - Top content category: International movies (2,752 titles)
+  - Top content categories: International movies (2,752 titles), Drama (2,427 titles)
 
 **Objective 6: Analyze Audience Preferences**
 
@@ -57,6 +61,15 @@ Welcome to the GitHub repository for my Netflix Global Growth Analysis project. 
 - **Methodology:** Histogram analysis of movie lengths.
 - **Key Findings:** 
   - Movies with a length of 100 to 120 minutes had a frequency of 2,500.
+
+**Objective 8: Additional Insights (Sample)**
+
+- **Goal:** Provide additional insights into Netflix's data.
+- **Methodology:** Data analysis and visualization.
+- **Key Findings:** 
+  - Top directors: Marcus Raboy (16 credits), Suhas Kadav (16 credits)
+  - Top actors: Julie Tejwani (28 credits), Om Puri (27 credits)
+  - Most content additions month (after top 3): September (765), April (759), October (755)
 
 ## Limitations
 
@@ -95,6 +108,10 @@ Learn about Netflix's global presence by examining content distribution across c
 ### Step 8: Audience Preferences
 
 Investigate audience preferences, including the popularity of TV-MA-rated content and content addition trends over months.
+
+### Step 9: Explore Additional Insights
+
+Explore additional insights, including more top directors, actors, and months with high content additions.
 
 ## Data Source
 
