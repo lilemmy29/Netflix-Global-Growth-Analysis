@@ -15,27 +15,27 @@ Objective 1: Analyze Netflix's Growth Over Time**
 - Methodology: Time series analysis of subscriber data.
 - Key Findings: Netflix has experienced exponential growth since its inception, with consistent increases in subscribers each year.
 
-Objective 2: Explore the Content Library**
+Objective 2: Explore the Content Library
 - Goal: Categorize and visualize genres and types of content available on Netflix.
 - Methodology: Data visualization and genre classification.
 - Key Findings: Netflix offers a diverse range of content, with a strong emphasis on dramas, comedies, and documentaries.
 
-Objective 3: Investigate User Ratings and Reviews**
+Objective 3: Investigate User Ratings and Reviews
 - Goal: Understand viewer perceptions by analyzing user ratings and reviews.
 - Methodology: Sentiment analysis and review sentiment visualization.
 - Key Findings: Users generally rate Netflix content positively, with a notable preference for original series and movies.
 
-Objective 4: Identify Top Directors and Actors**
+Objective 4: Identify Top Directors and Actors
 - Goal: Identify the top directors and actors associated with Netflix productions.
 - Methodology: Data mining and analysis of cast and crew data.
 - Key Findings: Renowned directors like Martin Scorsese and actors like Adam Sandler have been highly influential in Netflix content.
 
-Objective 5: Examine Content Distribution**
+Objective 5: Examine Content Distribution
 - Goal: Understand content distribution across different countries and regions.
 - Methodology: Geographic analysis of content availability.
 - Key Findings: Netflix has a global presence, with content tailored to local preferences in various regions.
 
-Objective 6: Analyze Audience Preferences**
+Objective 6: Analyze Audience Preferences
 - Goal Investigate audience preferences by analyzing maturity ratings and release patterns.
 - Methodology: Data visualization and trend analysis.
 - Key Findings: Netflix releases content throughout the year, with a strong focus on TV-14 and TV-MA ratings.
